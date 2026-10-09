@@ -1,0 +1,14 @@
+{
+  "name": "OpenCode Remote",
+  "short_name": "OC Remote",
+  "description": "Private remote control for OpenCode CLI",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b0c0e",
+  "theme_color": "#0b0c0e",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
